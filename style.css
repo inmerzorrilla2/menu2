@@ -71,12 +71,14 @@ input:checked ~ ul{
 li{
     font-size: 40px;
     cursor: pointer;
-    margin: auto;
+    margin-top: 60px;
+    
 
 }
 a {
     font-weight: 600;
     transition: transform 1s, color 0.5s;
+    
 }
 
 a:hover {
